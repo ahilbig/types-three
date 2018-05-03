@@ -1,3 +1,5 @@
+import {Camera} from "three";
+
 export class DragControls {
   constructor(objects, camera: Camera, domElement?: HTMLElement);
 
