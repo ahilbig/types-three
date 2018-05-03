@@ -6,14 +6,15 @@
     }
   ],
   "dependencies": {
-    "three": "^0.92.0"
+    "three": "^0.92.0",
+    "@types/three": "^0.91.10"
   },
-  "description": "TypeScript definitions for additional samples from three.js (http://www.threejsgames.com/extensions ).",
+  "description": "TypeScript definitions for additional samples from three.js (https://github.com/mrdoob/three.js/tree/dev/examples ).",
   "devDependencies": {},
   "directories": {},
   "license": "MIT",
   "main": "",
-  "name": "@types/three-samples",
+  "name": "@types/three",
   "optionalDependencies": {},
   "readme": "README.md",
   "scripts": {},
