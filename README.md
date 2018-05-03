@@ -1,5 +1,5 @@
 # Installation
-> `npm install --save https://github.com/ahilbig/types-three-samples.git`
+> `npm install --save https://github.com/ahilbig/types-three-extended.git`
 
 # Summary
 This package contains type definitions for three.js (https://threejs.org/ ).
